@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurdul
-- 👀 I’m interested in programming and software development
-- 🌱 I’m currently learning machine learning and data analysis
+- 👀 I’m interested in data anlysis
+- 🌱 I’m currently learning python and data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  through my mail @nurdul4002@gmail.com
 
